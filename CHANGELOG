@@ -1,0 +1,6 @@
+Tue Aug 28 16:16:22 EDT 2001
+	Reorganized directory structure
+	Seperated Rdbi and Rdbi.PgSQL
+
+Fri Mar  9 14:47:16 EST 2001
+	Initial version

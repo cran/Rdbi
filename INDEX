@@ -1,0 +1,17 @@
+Default methods and internal functions
+                         Default methods and internal functions
+dbAppendTable            Appends data to a database table
+dbClearResult            Clears resources associated with a query result
+dbColumnInfo             Returns type information about a result column
+dbConnect                Connect to a database
+dbConnectionInfo         Returns a list of connection status attributes
+dbDisconnect             Closes a database connection
+dbGetQuery               Submit a query string and fetch results
+dbGetResult              Fetch results from a query
+dbListTables             Lists database tables
+dbReadTable              Reads a table into a data frame
+dbReconnect              Reopens a connection to a database
+dbResultInfo             Returns information about a query result
+dbSendQuery              Submits a query string to the database backend
+dbWriteTable             Writes a data frame to a database table
+Utility functions        Utility functions
